@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "e97cd097fd2a8445",
+    "type": "split",
+    "children": [
+      {
+        "id": "9041cc0becbe3314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "916ac99976411bbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+<<<<<<< Updated upstream
+                "file": "Tips and Tricks/Tips and Tricks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36fd035e694cab6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Getting Started/Learning Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a94782a57b2070e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Getting Started/Basic Navigation.md",
+=======
+                "file": "Advanced Features/Advanced Features.md",
+>>>>>>> Stashed changes
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92f7cd57c6900279",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1044744bd7090a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca9d30ff86c55b98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39f35653a7fb8304",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5aec4f1839388a9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "adcb3d61ffaf7739",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4307d105914abf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c45a01ba6ab42bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+<<<<<<< Updated upstream
+                "file": "Getting Started/Basic Navigation.md",
+=======
+                "file": "Advanced Features/Advanced Features.md",
+>>>>>>> Stashed changes
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b41d0f58e2dd073",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+<<<<<<< Updated upstream
+                "file": "Getting Started/Basic Navigation.md",
+=======
+                "file": "Advanced Features/Advanced Features.md",
+>>>>>>> Stashed changes
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb456d192658ccc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d65791fb279c180e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+<<<<<<< Updated upstream
+                "file": "Getting Started/Basic Navigation.md"
+=======
+                "file": "Advanced Features/Advanced Features.md"
+>>>>>>> Stashed changes
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a94782a57b2070e2",
+  "lastOpenFiles": [
+<<<<<<< Updated upstream
+    "Getting Started/Learning Resources.md",
+    "Getting Started/Basic Navigation.md",
+    "Getting Started/Installation and Setup.md",
+    "Tips and Tricks/Tips and Tricks.md",
+=======
+    "Untitled.md",
+>>>>>>> Stashed changes
+    "Advanced Features/Advanced Features.md",
+    "Markdown Basics/Text Formatting.md",
+    "Markdown Basics/Markdown Basics.md",
+    "Markdown Basics/Lists.md",
+    "Markdown Basics/Headings.md",
+    "Markdown Basics/Links.md",
+    "Markdown Basics/Images.md",
+    "Markdown Basics/Code.md",
+    "Daily Notes/2024-05-27 first day with obsidian.md",
+    "Assets/Obsidian_logo.svg",
+    "Advanced Features/Text to Anki.md",
+    "Daily Notes",
+    "Untitled.canvas",
+    "Assets",
+    "Markdown Basics/Untitled",
+    "Markdown Basics/Unconfirmed 917650.crdownload",
+    "URL.md",
+    "Learning Resources",
+    "Tips and Tricks",
+    "Advanced Features",
+    "Getting Started",
+    "Markdown Basics",
+    "Basics.md",
+    "Note Name.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

@@ -1,0 +1,2 @@
+- **Command Palette:** Use Ctrl+P (Windows) or Cmd+P (Mac) to access commands quickly
+- **Side bar:** Access file explorer, search, and plugin settings.
