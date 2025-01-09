@@ -16,12 +16,9 @@ Talked with Uncle Jim about buying a house together.
 Talked to Cheryl from USAA about raising my preapproval mortgage to 250k.
 
 #### Work Goals
-- Check that the racing chair works since Robert said it was broken. (It works fine.)
+- Check that the racing chair works since Robert said it was broken. (It works fine).
 - Find a way to administer the windows pcs remotely.
 	- MDT and WDS do not work for us.
-	- 
-- 
-
 
 ### Before bed
 - Brush teeth
