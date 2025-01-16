@@ -28,7 +28,11 @@
               "type": "markdown",
               "state": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 "file": "Diaries/January/8th.md",
+=======
+                "file": "Diaries/January/7th.md",
+>>>>>>> Stashed changes
 =======
                 "file": "Diaries/January/7th.md",
 >>>>>>> Stashed changes
@@ -37,8 +41,11 @@
               },
               "icon": "lucide-file",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "title": "8th"
 =======
+=======
+>>>>>>> Stashed changes
               "title": "7th"
             }
           },
@@ -68,6 +75,9 @@
               },
               "icon": "lucide-file",
               "title": "7th"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             }
           }
@@ -214,6 +224,7 @@
     }
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "active": "5ae69b1be5102af9",
   "lastOpenFiles": [
     "Diaries/January/9th.md",
@@ -223,6 +234,10 @@
 =======
   "active": "82e3e1c07eb65d59",
   "lastOpenFiles": [
+=======
+  "active": "82e3e1c07eb65d59",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "1408. String Matching in an Array.md",
     "Diaries/January/7th.md",
     "Leet Codes",
@@ -232,6 +247,9 @@
     "Education/Obsidian/Mermaid Diagrams/Flowcharts.md",
     "Education/Obsidian/Mermaid Diagrams/Class Diagrams.md",
     "Education/Obsidian/Mermaid Diagrams/Mermaid Diagrams.md",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     "Diaries/January/Protocols January.md",
     "Diaries/Sayings/You can only control what you can measure.md",
@@ -258,7 +276,10 @@
     "Education/Obsidian/Getting Started/Learning Resources.md",
     "Education/Obsidian/Markdown Basics/Text Formatting.md",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "Education/Obsidian/Markdown Basics/Markdown Basics.md",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     "Education",
