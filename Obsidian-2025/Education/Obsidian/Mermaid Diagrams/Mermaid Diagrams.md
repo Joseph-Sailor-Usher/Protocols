@@ -1,11 +1,50 @@
-Mermaid is a powerful tool for creating diagrams using a simple text-based syntax. Below are links to atomic notes for different diagram types supported by Mermaid:
-- [[Flowcharts]]
-- [[Sequence Diagrams]]
-- [[Gantt Charts]]
-- [[Class Diagrams]]
-- [[State Diagrams]]
-- [[Pie Charts]]
-- [[Entity-Relationship Diagrams]]
+# Mermaid Diagrams
+
+Mermaid diagrams are a tool for creating diagrams and visualizations from plain text. They are highly useful for documentation and workflows in Markdown-supported tools like Obsidian.
+
+## Diagram Types
+- [Flowcharts](Flowcharts.md)
+- [Sequence Diagrams](Sequence%20Diagrams.md)
+- [Gantt Charts](Gantt%20Charts.md)
+- [Class Diagrams](Class%20Diagrams.md)
+- [State Diagrams](State%20Diagrams.md)
+- [Pie Charts](Pie%20Charts.md)
+- [Entity-Relationship Diagrams](Entity-Relationship%20Diagrams.md)
+
+## How to Use in Obsidian
+1. Open a note.
+2. Use a code block with `mermaid` as the language, here is a top down (td) graph:
+   \```mermaid
+   graph TD
+   A[Start] --> B[Step 1]
+   B --> C[Step 2]
+   C --> D[End]
+   \```
+   And here is what it looks like:
+```mermaid
+   graph TD
+   A[Start] --> B[Step 1]
+   B --> C[Step 2]
+   C --> D[End]
+   ```
+Here is a left right (lr) graph of the same data.
+   \```mermaid
+   graph TD
+   A[Start] --> B[Step 1]
+   B --> C[Step 2]
+   C --> D[End]
+   \`
+```mermaid
+   graph LR
+   A[Start] --> B[Step 1]
+   B --> C[Step 2]
+   C --> D[End]
+```
+
+1. Preview the note to see the rendered diagram.
+## References
+- [Mermaid Official Documentation](https://mermaid-js.github.io/)
+
 
 ## Diagram
 You can add diagrams and charts to your notes, using [Mermaid](https://mermaid-js.github.io/). Mermaid supports a range of diagrams, such as [flow charts](https://mermaid.js.org/syntax/flowchart.html), [sequence diagrams](https://mermaid.js.org/syntax/sequenceDiagram.html), and [timelines](https://mermaid.js.org/syntax/timeline.html).

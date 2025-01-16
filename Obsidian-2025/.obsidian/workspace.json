@@ -27,16 +27,52 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Diaries/January/8th.md",
+=======
+                "file": "Diaries/January/7th.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "8th"
+=======
+              "title": "7th"
+            }
+          },
+          {
+            "id": "fec250b086b93ef2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diaries/January/7th.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7th"
+            }
+          },
+          {
+            "id": "82e3e1c07eb65d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diaries/January/7th.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7th"
+>>>>>>> Stashed changes
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diaries/January/Protocols for January.md",
+                "file": "Diaries/January/7th.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Protocols for January"
+              "title": "Backlinks for 7th"
             }
           },
           {
@@ -127,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diaries/January/Protocols for January.md",
+                "file": "Diaries/January/7th.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Protocols for January"
+              "title": "Outgoing links from 7th"
             }
           },
           {
@@ -154,10 +190,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diaries/January/Protocols for January.md"
+                "file": "Diaries/January/7th.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Protocols for January"
+              "title": "Outline of 7th"
             }
           }
         ]
@@ -177,12 +213,26 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "5ae69b1be5102af9",
   "lastOpenFiles": [
     "Diaries/January/9th.md",
     "Diaries/January/8th.md",
     "Diaries/January/6th.md",
     "Diaries/January/Protocols for January.md",
+=======
+  "active": "82e3e1c07eb65d59",
+  "lastOpenFiles": [
+    "1408. String Matching in an Array.md",
+    "Diaries/January/7th.md",
+    "Leet Codes",
+    "Diaries/January/For Abbey.md",
+    "Diaries/January/Protocols for January.md",
+    "Diaries/January/6th.md",
+    "Education/Obsidian/Mermaid Diagrams/Flowcharts.md",
+    "Education/Obsidian/Mermaid Diagrams/Class Diagrams.md",
+    "Education/Obsidian/Mermaid Diagrams/Mermaid Diagrams.md",
+>>>>>>> Stashed changes
     "Diaries/January/Protocols January.md",
     "Diaries/Sayings/You can only control what you can measure.md",
     "Diaries/Sayings",
@@ -191,8 +241,6 @@
     "Diaries",
     "Education/Obsidian/Advanced Features/Advanced Formatting Syntax.md",
     "Education/Obsidian/Advanced Features/Flavored Markdown.md",
-    "Education/Obsidian/Mermaid Diagrams/Flowcharts.md",
-    "Education/Obsidian/Mermaid Diagrams/Class Diagrams.md",
     "Education/Obsidian/Useful Notes.md",
     "Education/Obsidian/Advanced Features/Tags.md",
     "Education/Obsidian/Untitled",
@@ -200,7 +248,6 @@
     "Education/Obsidian/Advanced Features/Advanced Features.md",
     "Education/Obsidian/Obsidian Terms.md",
     "Education/Obsidian/Mermaid Diagrams/Entity-Relationship Diagrams.md",
-    "Education/Obsidian/Mermaid Diagrams/Mermaid Diagrams.md",
     "Education/Obsidian/Mermaid Diagrams/Sequence Diagrams.md",
     "Education/Obsidian/Mermaid Diagrams/Pie Charts.md",
     "Education/Obsidian/Mermaid Diagrams/State Diagrams.md",
@@ -210,11 +257,13 @@
     "Education/Obsidian/Getting Started/Basic Navigation.md",
     "Education/Obsidian/Getting Started/Learning Resources.md",
     "Education/Obsidian/Markdown Basics/Text Formatting.md",
+<<<<<<< Updated upstream
     "Education/Obsidian/Markdown Basics/Markdown Basics.md",
+=======
+>>>>>>> Stashed changes
     "Education",
     "Education/Markdown",
     "Education/Obsidian/Tips and Tricks",
-    "Education/Obsidian/Markdown Basics",
-    "Education/Obsidian/Getting Started"
+    "Education/Obsidian/Markdown Basics"
   ]
 }
