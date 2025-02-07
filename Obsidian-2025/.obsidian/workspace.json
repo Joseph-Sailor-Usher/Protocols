@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diaries/January/8th.md",
+                "file": "Education/Houdini/Tutorials/H20.5 Foundations/H20.5 Foundations Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8th"
+              "title": "H20.5 Foundations Notes"
             }
           }
         ],
@@ -55,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,42 +180,51 @@
   },
   "active": "5ae69b1be5102af9",
   "lastOpenFiles": [
-    "Diaries/January/9th.md",
-    "Diaries/January/8th.md",
-    "Diaries/January/6th.md",
+    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/backup/gumballs_01_bak2.hipnc",
+    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/backup/gumballs_01_bak1.hipnc",
+    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/backup",
+    "Pasted image 20250207102208.png",
+    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/gumballs_01.hipnc",
+    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/desk",
+    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/video",
+    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/audio",
+    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/comp",
+    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/scripts",
+    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/flip",
+    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/render",
+    "Education/Houdini/Learning Log.md",
+    "Education/Houdini/Tutorials/H20.5 Foundations/H20.5 Foundations Notes.md",
+    "Education/Houdini/Jargon.md",
+    "Education/Houdini/Getting Started.md",
+    "Pasted image 20250207094054.png",
+    "Pasted image 20250207094016.png",
+    "Pasted image 20250207093951.png",
+    "Pasted image 20250207093933.png",
+    "Pasted image 20250207093831.png",
+    "Pasted image 20250207093727.png",
+    "Pasted image 20250207093704.png",
+    "Pasted image 20250207093651.png",
+    "Pasted image 20250207093639.png",
+    "Education/UMKC Master's of Computer Science/Application.md",
+    "Diaries/January/10th.md",
     "Diaries/January/Protocols for January.md",
+    "Diaries/January/8th.md",
+    "Diaries/January/9th.md",
+    "Diaries/January/6th.md",
     "Diaries/January/Protocols January.md",
     "Diaries/Sayings/You can only control what you can measure.md",
-    "Diaries/Sayings",
     "Education/Obsidian/Mermaid Diagrams/Gantt Charts.md",
-    "Diaries/January",
-    "Diaries",
     "Education/Obsidian/Advanced Features/Advanced Formatting Syntax.md",
     "Education/Obsidian/Advanced Features/Flavored Markdown.md",
     "Education/Obsidian/Mermaid Diagrams/Flowcharts.md",
     "Education/Obsidian/Mermaid Diagrams/Class Diagrams.md",
     "Education/Obsidian/Useful Notes.md",
     "Education/Obsidian/Advanced Features/Tags.md",
-    "Education/Obsidian/Untitled",
     "Education/Obsidian/Advanced Features/Multiple Cursors.md",
     "Education/Obsidian/Advanced Features/Advanced Features.md",
     "Education/Obsidian/Obsidian Terms.md",
     "Education/Obsidian/Mermaid Diagrams/Entity-Relationship Diagrams.md",
     "Education/Obsidian/Mermaid Diagrams/Mermaid Diagrams.md",
-    "Education/Obsidian/Mermaid Diagrams/Sequence Diagrams.md",
-    "Education/Obsidian/Mermaid Diagrams/Pie Charts.md",
-    "Education/Obsidian/Mermaid Diagrams/State Diagrams.md",
-    "Biology.md",
-    "Education/Obsidian/Mermaid Diagrams",
-    "Education/Obsidian/Assets/Obsidian_logo.svg",
-    "Education/Obsidian/Getting Started/Basic Navigation.md",
-    "Education/Obsidian/Getting Started/Learning Resources.md",
-    "Education/Obsidian/Markdown Basics/Text Formatting.md",
-    "Education/Obsidian/Markdown Basics/Markdown Basics.md",
-    "Education",
-    "Education/Markdown",
-    "Education/Obsidian/Tips and Tricks",
-    "Education/Obsidian/Markdown Basics",
-    "Education/Obsidian/Getting Started"
+    "Education/Obsidian/Mermaid Diagrams/Sequence Diagrams.md"
   ]
 }
