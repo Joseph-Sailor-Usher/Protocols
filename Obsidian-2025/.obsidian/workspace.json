@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8fba72724e2556eb",
@@ -180,6 +181,14 @@
   },
   "active": "5ae69b1be5102af9",
   "lastOpenFiles": [
+    "Education/Houdini/Jargon.md",
+    "Education/Houdini/Getting Started.md",
+    "Education/Houdini/Tutorials/H20.5 Foundations/H20.5 Foundations Notes.md",
+    "Work/Projects/Alita/What is humanity.md",
+    "Work/Projects/Alita",
+    "Pasted image 20250207093704.png",
+    "Work/Projects",
+    "Work",
     "Diaries/January/For Abbey.md",
     "Diaries/January/7th.md",
     "1408. String Matching in an Array.md",
@@ -191,20 +200,13 @@
     "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/desk",
     "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/video",
     "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/audio",
-    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/comp",
-    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/scripts",
-    "Education/Houdini/Tutorials/H20.5 Foundations/overview_lesson/flip",
     "Education/Houdini/Learning Log.md",
-    "Education/Houdini/Tutorials/H20.5 Foundations/H20.5 Foundations Notes.md",
-    "Education/Houdini/Jargon.md",
-    "Education/Houdini/Getting Started.md",
     "Pasted image 20250207094054.png",
     "Pasted image 20250207094016.png",
     "Pasted image 20250207093951.png",
     "Pasted image 20250207093933.png",
     "Pasted image 20250207093831.png",
     "Pasted image 20250207093727.png",
-    "Pasted image 20250207093704.png",
     "Pasted image 20250207093651.png",
     "Pasted image 20250207093639.png",
     "Education/UMKC Master's of Computer Science/Application.md",
@@ -223,8 +225,6 @@
     "Education/Obsidian/Useful Notes.md",
     "Education/Obsidian/Advanced Features/Tags.md",
     "Education/Obsidian/Advanced Features/Multiple Cursors.md",
-    "Education/Obsidian/Advanced Features/Advanced Features.md",
-    "Education/Obsidian/Obsidian Terms.md",
-    "Education/Obsidian/Mermaid Diagrams/Entity-Relationship Diagrams.md"
+    "Education/Obsidian/Advanced Features/Advanced Features.md"
   ]
 }
